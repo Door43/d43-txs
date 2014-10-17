@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[txs:home|Door43 (txs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-txs|d43-txs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-txs/archive/master.zip|d43-txs.zip]]
+
+**Recent Changes**
+{{changes>ns = txs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/txs|Ethnologue data]]
+
